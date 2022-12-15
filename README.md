@@ -64,7 +64,7 @@ git clone https://github.com/SkillfactoryDS/DataCleaningProject
 
 ## Авторы
 
-* [Укажите свое имя](ссылка на ваши соц сети)
+* [Skakun_Dmitrii](https://www.instagram.com/skakun_dr/)
 
 ## Выводы
 
